@@ -20,6 +20,5 @@ message ProblemResult {
   string name = 1;
   string content = 2;
   string output = 3;
-  int32 status = 4;
 }
 
